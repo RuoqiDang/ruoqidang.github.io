@@ -1,15 +1,37 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Dr. Ruoqi Dang will join Xi'an Jiaotong University (XJTU) as a professor in 2026."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am currently a Postdoctoral Researcher at the University of Cambridge, and will join Xi'an Jiaotong University as a professor. My research focuses on applying data-driven methods in multi-scale mechanics, aiming to explore how emerging AI/ML techniques can enhance our understanding and modeling of complex material behavior.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+## Education
+
+- **B.Eng., Engineering Mechanics**, Xi'an Jiaotong University, China (2016–2020)  
+
+- **Visiting Scholar, Computer Science**, Dartmouth College, USA (2019)  
+  Advisor: [Prof. Temiloluwa Prioleau](https://www.t-prioleau.com/)
+
+- **Ph.D., Solid Mechanics**, Nanyang Technological University, Singapore (2021–2025)  
+  Advisor: [Prof. Huajian Gao](https://sites.brown.edu/gao-group-nanomechanics-engineering-biological-systems/home/prof-huajian-gao/)
+
+## Experience
+
+- **Postdoctoral Researcher**, University of Cambridge, UK (2025–2026)  
+  Advisors: [Prof. Vikram Deshpande](https://cambridgesolidmechanics.co.uk/), [Dr. Burigede Liu](https://ddm.eng.cam.ac.uk/)
+
+- **Professor**, Xi'an Jiaotong University, China (2026–present)  
+
+## My Research Interests
+
+- Multi-scale mechanics
+- Data-driven and AI-driven method
+- Micro-scale metallic materials plasticity, strength-ductility trade-off
+- Interdisciplinary Research of Medicine and Engineering
 
 A data-driven personal website
 ======
