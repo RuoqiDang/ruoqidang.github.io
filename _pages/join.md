@@ -4,8 +4,6 @@ permalink: /join/
 author_profile: true
 ---
 
-# Openings
-
 I am building a new research group and welcome **self-motivated** and **curious** applicants from Mechanics / Mechanical / Aerospace / Materials / Energy / CS / Applied Math and related fields.
 
 If you are interested, please email me your **CV** + a **short personal statement** (≈1 page).  
