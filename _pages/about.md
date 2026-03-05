@@ -19,7 +19,7 @@ I am currently a Postdoctoral Researcher at the University of Cambridge, and wil
 - **Ph.D., Solid Mechanics**, Nanyang Technological University, Singapore (2021–2025)  
   Advisor: [Prof. Huajian Gao](https://sites.brown.edu/gao-group-nanomechanics-engineering-biological-systems/home/prof-huajian-gao/)
 
-## Experience
+## Professional Experience
 
 - **Postdoctoral Researcher**, University of Cambridge, UK (2025–2026)  
   Advisors: [Prof. Vikram Deshpande](https://cambridgesolidmechanics.co.uk/), [Dr. Burigede Liu](https://ddm.eng.cam.ac.uk/)
@@ -32,6 +32,7 @@ I am currently a Postdoctoral Researcher at the University of Cambridge, and wil
 - Data-driven and AI-driven method
 - Micro-scale metallic materials plasticity, strength-ductility trade-off
 - Interdisciplinary Research of Medicine and Engineering
+
 
 A data-driven personal website
 ======
