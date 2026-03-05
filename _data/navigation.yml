@@ -10,7 +10,10 @@
 main:
   - title: "Publications"
     url: /publications/
-
+    
+  - title: "About Me"
+    url: /
+    
   - title: "Research"
     url: /research/    
 
@@ -29,3 +32,6 @@ main:
     
   - title: "Join Us!"
     url: /join/
+
+  - title: "中文"
+    url: /chinese_intro/
