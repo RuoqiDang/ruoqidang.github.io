@@ -12,16 +12,16 @@ main:
     url: /publications/
 
   - title: "Research"
-    url: /Research/    
+    url: /research/    
 
   - title: "Teaching"
     url: /teaching/    
     
   - title: "People"
-    url: /People/
+    url: /people/
         
   - title: "Gallery"
-    url: /Gallery/
+    url: /gallery/
     
     
   # - title: "CV"
