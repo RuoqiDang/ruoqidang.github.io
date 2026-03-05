@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## PI
-- Your Name
+- Ruoqi Dang
 
 ## Students / Collaborators
 - Name 1 — topic
