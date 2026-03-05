@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## PI
-- Ruoqi Dang
+- [Ruoqi Dang](https://ruoqidang.github.io/)
 
 ## Students / Collaborators
 - Name 1 — topic
