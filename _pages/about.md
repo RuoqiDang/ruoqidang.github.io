@@ -30,3 +30,9 @@ Outside research, I am an avid Go (Weiqi) player (5-dan; National Level-2 Athlet
 - Data-driven and AI-driven method
 - Micro-scale metallic materials plasticity, strength-ductility trade-off
 - Interdisciplinary Research of Medicine and Engineering
+
+## Selected Publications
+
+You can also find my publications [here](https://scholar.google.com/citations?user=WBsfSZYAAAAJ&hl=zh-CN&oi=ao).
+1. 
+2. 
