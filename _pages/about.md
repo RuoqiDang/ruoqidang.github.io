@@ -1,8 +1,13 @@
 ---
+title: "Ruoqi Dang 党若淇"
 permalink: /
-title: "I will join Xi'an Jiaotong University (XJTU) as a professor in 2026."
 author_profile: true
-redirect_from: 
+excerpt: "Incoming Professor & PhD Supervisor at Xi’an Jiaotong University (XJTU). Currently Postdoctoral Researcher at the University of Cambridge."
+header:
+  overlay_image: /images/XJTU.png
+  overlay_filter: 0.35
+  caption: "Xi’an Jiaotong University"
+redirect_from:
   - /about/
   - /about.html
 ---
