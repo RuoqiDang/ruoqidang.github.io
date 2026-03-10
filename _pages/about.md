@@ -34,8 +34,9 @@ Outside research, I am an avid Go (Weiqi) player (5-dan; National Level-2 Athlet
 ## Selected Publications
 
 You can also find my publications [here](https://scholar.google.com/citations?user=WBsfSZYAAAAJ&hl=zh-CN&oi=ao).
-1. 
-2. 
+
+- 
+-  
 
 ## Conferences & Presentations
 
