@@ -33,7 +33,14 @@ Outside research, I am an avid Go (Weiqi) player (5-dan; National Level-2 Athlet
 
 ## Conferences & Presentations
 
-- 
+- **International Young Scholars Forum 2025**, Shenyang City, China, 2025.12<br>
+  ***Invited Talk**: Grain Boundaries Plasticity in FCC Metals and Nanotwinned Alloys*
+
+- **Beihang University**, Beijing City, China, 2025.12<br>
+  ***Invited Talk**: Grain Boundaries Plasticity in FCC Metals and Nanotwinned Alloys*
+
+- **Cambridge University Talk Seires**, Cambridge, UK, 2025.11<br>
+  ***Invited Talk**: Grain Boundaries Plasticity in FCC Metals and Nanotwinned Alloys*
 
 - **The 12th European Solid Mechanics Conference (ESMC2025)**, Lyon City, France, 2025.7<br>
   ***Presentation**: Shear Asymmetry in Grain Boundaries*
