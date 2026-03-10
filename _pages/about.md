@@ -4,7 +4,7 @@ permalink: /
 author_profile: true
 excerpt: "Incoming Professor & PhD Supervisor at Xi’an Jiaotong University (XJTU). Currently Postdoctoral Researcher at the University of Cambridge."
 header:
-  overlay_image: /images/XJTU.png
+  overlay_image: /images/XJTU.jpg
   overlay_filter: 0.35
   caption: "Xi’an Jiaotong University"
 redirect_from:
