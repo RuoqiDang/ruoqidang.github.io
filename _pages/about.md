@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Ruoqi Dang 党若淇, a recipient of national high-level young-talent program and an incoming Professor and PhD Supervisor at Xi’an Jiaotong University (XJTU). I am currently a Postdoctoral Researcher at the University of Cambridge.
+Dr. Ruoqi Dang, a recipient of national high-level young-talent program and an incoming Professor and PhD Supervisor at Xi’an Jiaotong University (XJTU). I am currently a Postdoctoral Researcher at the University of Cambridge.
 
 My research focuses on solid and computational mechanics, with an emphasis on multiscale modeling, analysis, and simulation of advanced materials. I am particularly interested in how modern AI/ML can be used to build physically consistent models of complex deformation, reveal underlying mechanisms, and tackle inverse problems in mechanics.
 
