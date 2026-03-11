@@ -33,33 +33,24 @@ Outside research, I am an avid Go (Weiqi) player (5-dan; National Level-2 Athlet
 
 ## Conferences & Presentations
 
-- **International Young Scholars Forum 2025**, Shenyang City, China, 2025.12<br>
-  ***Invited Talk**: Grain Boundaries Plasticity in FCC Metals and Nanotwinned Alloys*
+- **International Young Scholars Forum 2025**, *Invited Talk*, Shenyang City, China, 2025.12<br>
 
-- **Beihang University**, Beijing City, China, 2025.12<br>
-  ***Invited Talk**: Grain Boundaries Plasticity in FCC Metals and Nanotwinned Alloys*
+- **Beihang University Young Scholar Forum**, *Invited Talk*, Beijing City, China, 2025.12<br>
 
-- **Cambridge University Talk Seires**, Cambridge, UK, 2025.11<br>
-  ***Invited Talk**: Grain Boundaries Plasticity in FCC Metals and Nanotwinned Alloys*
+- **Cambridge University Engineering Department Seminar Series**, *Invited Talk*, Cambridge, UK, 2025.11<br>
 
-- **The 12th European Solid Mechanics Conference (ESMC2025)**, Lyon City, France, 2025.7<br>
-  ***Presentation**: Shear Asymmetry in Grain Boundaries*
+- **The 12th European Solid Mechanics Conference (ESMC2025)**, *Presentation*, Lyon City, France, 2025.7<br>
   
-- **The 11th International Conference on Multiscale Materials Modeling (MMM11)**, Prague City, Czech Republic, 2024.9<br>
-  ***Presentation**: Exploring Plastic Deformation Behavior in Nanotwinned Metals under High Quasi-hydrostatic Pressure: A Molecular Dynamics Insight*
+- **The 11th International Conference on Multiscale Materials Modeling (MMM11)**, *Presentation*, Prague City, Czech Republic, 2024.9<br>
 
-- **The Society of Engineering Science Technical Meeting (SES 2024)**, Hangzhou City, China, 2024.8<br>
+- **The Society of Engineering Science Technical Meeting (SES 2024)**, *Presentation*, Hangzhou City, China, 2024.8<br>
   ***Session Chair**: Mechanics of Materials in Extreme Environments*<br>
-  ***Presentation**: Exploring Plastic Deformation Behavior in Nanotwinned Metals under High Quasi-hydrostatic Pressure: A Molecular Dynamics Insight*
   
-- **The 30th International Conference on Computational & Experimental Engineering and Sciences (ICCES2024)**, Singapore, 2024.8<br>
-  ***Poster Presentation**: Exploring Plastic Deformation Behavior in Nanotwinned Metals under High Quasi-hydrostatic Pressure: A Molecular Dynamics Insight*
+- **The 30th International Conference on Computational & Experimental Engineering and Sciences (ICCES2024)**, *Poster*, Singapore, 2024.8<br>
   
-- **The 16th World Congress on Computational Mechanics and 4th Pan American Congress on Computational Mechanics (WCCM 2024 / PANACM 2024)**, Vancouver, Canada, 2024.7<br>
-  ***Presentation**: Exploring Plastic Deformation Behavior in Nanotwinned Metals under High Quasi-hydrostatic Pressure: A Molecular Dynamics Insight*
+- **The 16th World Congress on Computational Mechanics and 4th Pan American Congress on Computational Mechanics (WCCM 2024 / PANACM 2024)**, *Presentation*, Vancouver, Canada, 2024.7<br>
   
-- **2024 Conference of Chinese Solid Mechanics (CCSM 2024)**, Nanjing City, China, 2024.3<br>
-  ***Poster Presentation**: Exploring Plastic Deformation Behavior in Nanotwinned Metals under High Quasi-hydrostatic Pressure: A Molecular Dynamics Insight*
+- **2024 Conference of Chinese Solid Mechanics (CCSM 2024)**, *Poster*, Nanjing City, China, 2024.3<br>
 
 ## Selected Publications
 
